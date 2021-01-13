@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "322606043965",
+    "firebase_url": "https://housie-5e9a3.firebaseio.com",
+    "project_id": "housie-5e9a3",
+    "storage_bucket": "housie-5e9a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322606043965:android:b493ebf3013c4cb036ab54",
+        "android_client_info": {
+          "package_name": "com.example.housie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322606043965-nqfmk937dkcd133h5e4dfd36g867sv1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOeQqT-B6N5PZ_i5VQFG33AinVuR9DN9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322606043965-nqfmk937dkcd133h5e4dfd36g867sv1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
